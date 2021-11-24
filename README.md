@@ -2,4 +2,4 @@
 - 👀 I’m interested in Laravel, Web api's
 - 🌱 I’m currently learning about best pratice in Laravel
 - 💞️ I’m looking to collaborate on opensource projects
-- 📫 How to reach me at ram@devcentrehouse.eu
+- 📫 Reach me at ram@devcentrehouse.eu
